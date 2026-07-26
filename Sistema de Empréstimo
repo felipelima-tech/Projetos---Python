@@ -1,0 +1,26 @@
+Simulador de Análise de Empréstimo
+
+Este projeto foi desenvolvido em Python como parte dos meus estudos em lógica de programação.
+
+O objetivo foi simular uma análise simplificada de concessão de empréstimos, permitindo o cadastro de um cliente, o cálculo do valor das parcelas e a validação da solicitação com base em regras de negócio, como o comprometimento máximo da renda mensal e a identificação de clientes premium.
+
+Durante o desenvolvimento, busquei praticar a construção de uma lógica organizada, utilizando estruturas condicionais para representar situações comuns encontradas em sistemas de análise de crédito.
+
+Funcionalidades
+Cadastro do cliente.
+Entrada do salário mensal.
+Simulação do valor do empréstimo solicitado.
+Definição da quantidade de parcelas.
+Cálculo automático do valor das parcelas.
+Verificação do comprometimento máximo de 30% da renda.
+Identificação de clientes premium.
+Aprovação ou reprovação da solicitação de crédito.
+Exibição do resultado da análise.
+Conceitos aplicados
+Variáveis.
+Entrada de dados.
+Operações matemáticas.
+Estruturas condicionais.
+Comparações lógicas.
+Cálculo de porcentagens.
+Formatação de valores monetários.
