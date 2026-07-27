@@ -20,4 +20,5 @@ Durante o desenvolvimento, busquei praticar conceitos fundamentais da linguagem 
 
 Este projeto faz parte da minha evolução prática em programação, com foco no desenvolvimento do raciocínio lógico, na aplicação de estruturas condicionais e na criação de soluções que simulam situações reais do dia a dia.
 
-Cada novo projeto representa mais um passo na construção da minha base como futuro profissional da área de tecnologia. 🚀
+Cada novo projeto representa mais um passo na construção da minha base como futuro profissional da área de tecnologia. 🚀 
+ 
