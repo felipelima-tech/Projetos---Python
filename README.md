@@ -1,4 +1,4 @@
-🛒 Sistema de Compras com Descontos e Formas de Pagamento
+# 🛒 Sistema de Compras com Descontos e Formas de Pagamento
 
 Este projeto foi desenvolvido em Python como parte dos meus estudos em lógica de programação.
 
